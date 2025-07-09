@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/HARDIK032?theme=dark&font=IBM%20Plex%20Mono)
 <!--
 **HARDIK032/HARDIK032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
