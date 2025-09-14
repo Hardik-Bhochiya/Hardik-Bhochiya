@@ -1,5 +1,5 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/HARDIK032?theme=dark&font=ABeeZee&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/H4RD_CoDE?theme=dark&font=ABeeZee&ext=heatmap)
 <!--
 **HARDIK032/HARDIK032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
