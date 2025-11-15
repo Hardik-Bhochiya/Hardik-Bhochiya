@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>A Movie Booking Portal project using PHP, MySQL & XAMPP.<br><br>👯 I’m looking to collaborate on:<br>Open-source C, C++, Java & beginner-friendly web development projects.<br><br>🌱 I’m currently learning:<br>Java, Data Structures & Algorithms, Competitive Programming (LeetCode/CodeChef).<br><br>💬 Ask me about:<br>C, C++, basic PHP, HTML/CSS, VS Code setup, and logic-building tips.
+🔭 I’m currently working on:<br>A Movie Booking Portal project using PHP, MySQL & XAMPP.<br><br>👯 I’m looking to collaborate on:<br>Open-source C, C++, Java & beginner-friendly web development projects.<br><br>🌱 I’m currently learning:<br>Java, Data Structures & Algorithms, Competitive Programming (LeetCode/Codeforces).<br><br>💬 Ask me about:<br>C, C++, basic PHP, HTML/CSS, VS Code setup, and logic-building tips.
 
 
 ## 🌐 Socials:
